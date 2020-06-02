@@ -8,3 +8,4 @@ ikea.collect do |key_name,num|
 ikea
 end
 end 
+end
