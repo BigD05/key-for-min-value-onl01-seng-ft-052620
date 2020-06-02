@@ -5,3 +5,4 @@ def key_for_min_value(ikea)
 ikea.collect do |key_name,num|
   key_name.length<=>key_name.length 
 end
+end 
